@@ -133,7 +133,7 @@ header {
   float: left;
   width: 245px;
   height: 174px;
-  background: transparent url(../images/header_text.gif) top left no-repeat;
+  background: transparent url(/dgh/images/header_text.gif) top left no-repeat;
   
 }
 
@@ -172,7 +172,7 @@ footer {
 #descr {
   width: 628px;
   height: 400px;
-  background: transparent url(../images/main_text.gif) top left no-repeat;
+  background: transparent url(/dgh/images/main_text.gif) top left no-repeat;
 }
 
 
